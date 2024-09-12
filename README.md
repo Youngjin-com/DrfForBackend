@@ -1,6 +1,6 @@
 # 백엔드를 위한 Django REST Framework with 파이썬
 
-<img src="https://www.youngjin.com/images/book_cover/9788931466195.jpg" height="350px" style="border: 2px solid grey;">
+<img src="https://www.youngjin.com/images/book_cover/9788931466195.png" height="350px" style="border: 2px solid grey;">
 
 [백엔드를 위한 Django REST Framework with 파이썬(영진닷컴)](https://blog.naver.com/ydot/222708286133)
 
